@@ -8,7 +8,7 @@
 </p>
 
 ## Movie Story Board Web App
-<img src="https://drive.google.com/file/d/1QRC4qvpJlsTVp1HF_Rs6UZ01r_nlOtEA/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1QRC4qvpJlsTVp1HF_Rs6UZ01r_nlOtEA/view">
 
 ## Installation
 1. Clone repostory 
