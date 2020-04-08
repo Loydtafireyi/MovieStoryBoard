@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Http;
 use Illuminate\Http\Request;
 
-class MoviesController extends Controller
+class ApiMoviesController extends Controller
 {
     public function index()
     {
