@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##Movie Story Board Web App
+## Movie Story Board Web App
 
 ## Installation
 1. Clone repostory 
