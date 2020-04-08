@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Movie Story Board Web App
+##Movie Story Board Web App
 
 ## Installation
 1. Clone repostory 
--- gitclone https://github.com/Loydtafireyi/MovieStoryBoard.git
+-- git clone https://github.com/Loydtafireyi/MovieStoryBoard.git
 2. cd to the cloned directory and run
 -- composer update
 3. Go to https://www.themoviedb.org and register then go to https://www.themoviedb.org/settings/api to get your api token
